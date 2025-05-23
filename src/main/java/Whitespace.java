@@ -14,7 +14,7 @@ public class Whitespace {
         wspc.countBoth("a b c d e"); // should print 4, 5
 
     }
-
+//working on
     private void countBoth(String testdata) {
 
         // count the number of whitepace chars and non-whitspace chars.
